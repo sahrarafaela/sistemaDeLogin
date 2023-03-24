@@ -1,0 +1,12 @@
+a) Qual a diferença entre HTML e XHTML? 
+São basicamente a mesma coisa, a diferença é que o XHTML é um pouco mais rígido em questão de tags, por exemplo. Até porque XHTML é uma junção de HTML e XML 
+
+b) O que é um design responsivo?
+Renderizar a página para que tenha variedades de tamanho que correspondem a tela do usuário
+
+c) Quais os benefícios de utilizar bootstrap?
+Não precisar iniciar um código do zero e assim economizando tempo
+
+d) Qual sua especialidade em desenvolvimento front-end?
+
+Construção de interfaces
