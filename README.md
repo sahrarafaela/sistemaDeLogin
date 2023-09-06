@@ -1,4 +1,4 @@
-Página inicial de login que informa quanto se os dados estão incorretos, correetos ou não foram inseridos.
+Página inicial de login que informa quando os dados estão incorretos, correetos ou não foram inseridos.
 
 Insira oseu e-mail e senha
 
